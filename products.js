@@ -70,7 +70,6 @@ const products = [
     image: "10.png",
     badge: ""
   }
-  
 ];
 
 /**
