@@ -46,28 +46,28 @@ const products = [
     id: 7,
     name: "Gorra New York 00’s",
     price: 13000,
-    image: "7.png",
+    image: "7.jpeg",
     badge: ""
   },
   {
     id: 8,
     name: "Gorra New York 88’s Vintage",
     price: 13000,
-    image: "8.png",
+    image: "8.jpeg",
     badge: ""
   },
   {
     id: 9,
     name: "Gorra New York 88’s Vintage",
     price: 13000,
-    image: "9.png",
+    image: "9.jpeg",
     badge: ""
   },
   {
     id: 10,
     name: "Gorra Chill Negro Casual",
     price: 13000,
-    image: "10.png",
+    image: "10.jpeg",
     badge: ""
   },
 ];
