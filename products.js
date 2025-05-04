@@ -15,7 +15,7 @@ const products = [
     name: "Gorra Chill Gris Casual ",
     price: 13000,
     image: "2.png"
-    badge: "SIN STOCK"
+    
   },
   {
     id: 3,
