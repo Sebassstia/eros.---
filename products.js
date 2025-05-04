@@ -70,7 +70,7 @@ const products = [
     price: 13000,
     image: "10.jpeg",
     badge: ""
-  },
+  }
 ];
 
 /**
