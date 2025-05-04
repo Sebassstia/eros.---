@@ -47,7 +47,7 @@ const products = [
     name: "Gorra New York 00’s",
     price: 13000,
     image: "7.jpeg",
-    badge: ""
+    badge: "SIN STOCK"
   },
   {
     id: 8,
