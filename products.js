@@ -15,6 +15,7 @@ const products = [
     name: "Gorra Chill Gris Casual ",
     price: 13000,
     image: "2.png"
+    badge: "SIN STOCK"
   },
   {
     id: 3,
@@ -61,7 +62,7 @@ const products = [
     name: "Gorra New York 88’s Vintage",
     price: 13000,
     image: "9.jpeg",
-    badge: ""
+    badge: "SIN STOCK"
   },
   {
     id: 10,
