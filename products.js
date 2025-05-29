@@ -6,68 +6,69 @@ const products = [
   {
     id: 1,
     name: "Gorra Urban Highly Favored Edition",
-    price: 13000,
+    price: 9990,
     image: "1.png",
     badge: ""
   },
   {
     id: 2,
     name: "Gorra Chill Gris Casual ",
-    price: 13000,
+    price: 9990,
     image: "2.png",
     badge: "SIN STOCK"
   },
   {
     id: 3,
     name: "Gorra Retro New York 92’s ",
-    price: 13000,
+    price: 9990,
     image: "3.png",
     badge: ""
   },
   {
     id: 4,
     name: "Gorra New York 88’s Vintage",
-    price: 13000,
+    price: 9990,
     image: "4.png",
+    badge: "SIN STOCK"
   },
   {
     id: 5,
     name: "Gorra Athlehs Urban",
-    price: 13000,
+    price: 9990,
     image: "5.png",
   },
   {
     id: 6,
     name: "Gorra The North Face",
-    price: 13000,
+    price: 9990,
     image: "6.png",
     badge: ""
   },
   {
     id: 7,
     name: "Gorra New York 00’s",
-    price: 13000,
+    price: 9990,
     image: "7.jpeg",
     badge: "SIN STOCK"
   },
   {
     id: 8,
     name: "Gorra New York 88’s Vintage",
-    price: 13000,
+    price: 9990,
     image: "8.jpeg",
     badge: ""
   },
   {
     id: 9,
     name: "Gorra New York 88’s Vintage",
-    price: 13000,
+    price: 9990,
     image: "9.jpeg",
     badge: "SIN STOCK"
   },
   {
     id: 10,
     name: "Gorra Chill Negro Casual",
-    price: 13000,
+    price: 9990,
     image: "10.jpeg",
     badge: ""
   }
